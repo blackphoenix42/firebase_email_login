@@ -1,20 +1,24 @@
 <div align="center">
 
-![Issues](https://img.shields.io/github/issues/blackphoenix42/template_repo)
-![Pull Requests](https://img.shields.io/github/issues-pr/blackphoenix42/template_repo)
-![Forks](https://img.shields.io/github/forks/blackphoenix42/template_repo)
-![Stars](https://img.shields.io/github/stars/blackphoenix42/template_repo)
-[![License](https://img.shields.io/github/license/blackphoenix42/template_repo)](https://github.com/blackphoenix42/template_repo/blob/master/LICENSE)
+<!-- ![Issues](https://img.shields.io/github/issues/blackphoenix42/firebase_email_login)
+![Pull Requests](https://img.shields.io/github/issues-pr/blackphoenix42/firebase_email_login)
+![Forks](https://img.shields.io/github/forks/blackphoenix42/firebase_email_login)
+![Stars](https://img.shields.io/github/stars/blackphoenix42/firebase_email_login)
+[![License](https://img.shields.io/github/license/blackphoenix42/firebase_email_login)](https://github.com/blackphoenix42/firebase_email_login/blob/master/LICENSE) -->
 
-<img alt="LOGO" src="" width=250 height=250>
+<img alt="LOGO" src="./.github/assets/logo.svg" width=250 height=250>
+
+## FIREBASE EMAIL LOGIN
 
 <h3>Join official <a href="https://discord.gg/mRUZEhD">Discord Server</a> for discussion.</h3>
 
-![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)
-![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)
-![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)
+![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)
+![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)
 
 </div>
+
+# 📃About
 
 # 🌱 Quick Start
 
@@ -23,7 +27,7 @@
 - Clone this repository remotely.
 
 ```sh
-git clone https://github.com/blackphoenix42/template_repo.git
+git clone https://github.com/blackphoenix42/firebase_email_login.git
 ```
 
 - Install the dependencies
@@ -42,16 +46,9 @@ npm start
 	<img src="./.github/assets/welcome.svg" width="30%">
 </div>
 
-# To Edit:
-
-- Replace `template_repo` in `.github/config.yml` with your repository name.
-- Also, replace `template_repo` in `./README.md`
-- Edit `name`, `description` and `keywords` in `./package.json`
-- You are good to go! 🥳
-
 ## 🚀 How to Contribute to Project?
 
-- Take a look at the Existing [Issues](https://github.com/blackphoenix42/template_repo/issues) or create your own Issues!
+- Take a look at the Existing [Issues](https://github.com/blackphoenix42/firebase_email_login/issues) or create your own Issues!
 - Check out [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 <div align="center">
