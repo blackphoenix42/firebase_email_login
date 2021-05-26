@@ -20,6 +20,14 @@
 
 # 📃About
 
+An app that uses firebase email authentication to sign in.
+
+<div align="center">
+	<img src="./.github/assets/signin.gif" >
+</div>
+
+> To register enter `email` and `password` and click on `Sign Up`
+
 # 🌱 Quick Start
 
 - Star🌟 and Fork<img width="15px" src="https://img.icons8.com/doodle/48/000000/code-fork.png"/> this repository
@@ -81,3 +89,8 @@ npm start
 		</td>
 	</tr>
 </table> -->
+
+<div align="center">
+<img src="./.github/assets/thank_you.svg" width="45%" /><br /> 
+<sub><b>Thank You</b></sub>
+</div>
