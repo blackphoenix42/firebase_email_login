@@ -1,8 +1,12 @@
 {
-  "name": "react_template",
-  "author":"Binary Phoenix",
-  "description": "A project that does something awesome",
-  "keywords": [ "descriptive", "related", "words" ],
+  "name": "firebase_email_login",
+  "author": "Binary Phoenix",
+  "description": "Logging in the site using firebase",
+  "keywords": [
+    "email",
+    "firebase",
+    "login"
+  ],
   "license": "MIT",
   "version": "0.1.0",
   "private": true,
